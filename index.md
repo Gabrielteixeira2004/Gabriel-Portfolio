@@ -6,7 +6,7 @@ Clique na logo  <a href="https://www.linkedin.com/in/gtex/"><img src="images/lin
 <br><br>
 
 # Skills <br>
-
+![](images/Skills_GitHub.png)
 <img src="images/Skills_GitHub.png" alt="Skills">
 
 # Portfolio <br>
