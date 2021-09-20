@@ -1,4 +1,10 @@
-## Bem vindo ao meu Portfolio!
+<h1> Bem vindo ao meu Portfolio! </h1>
+
+# Sobre mim
+
+Psicólogo com ritmo Tech! Experiência extensa em People Analytics e atualmente inserido em uma equipe de Dados.
+
+# Skills
 
 You can use the [editor on GitHub](https://github.com/Gabrielteixeira2004/Gabriel-Portifolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
