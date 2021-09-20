@@ -2,7 +2,7 @@
 Psicólogo com ritmo Tech! Experiência extensa em People Analytics e atualmente inserido em uma equipe de Dados.
 
 # Experiências<br>
-Clique no logo <a href="https://www.linkedin.com/in/gtex/"><img src="https://github.com/Gabrielteixeira2004/Gabriel-Portfolio/blob/f9417802d99a8b899411a9be6278f56355541244/images/linkedin_icon.svg" alt="drawing" width="2%"/></a> para conferir minhas experiências de maneira detalhada.
+Clique no logo para conferir minhas experiências de maneira detalhada.
 <br><br>
 
 
