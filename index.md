@@ -7,7 +7,7 @@ Clique na logo  <a href="https://www.linkedin.com/in/gtex/"><img src="images/lin
 
 # Skills <br>
 
-<img src="https://github.com/Gabrielteixeira2004/Gabriel-Portfolio/blob/7f8ea54b205f5e7cf64e3e0e302d0d6b148e09e4/images/Skills%20GitHub.jpg" alt="Skills">
+<img src="https://github.com/Gabrielteixeira2004/Gabriel-Portfolio/blob/e1199e9b543313491a166761c64f189cae188d65/images/Skills%20GitHub.png" alt="Skills">
 
 # Portfolio <br>
 Chegamos na melhor parte, <a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/portfolio">clique aqui</a> para acessá-la!
