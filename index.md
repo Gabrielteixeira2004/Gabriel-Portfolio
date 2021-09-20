@@ -1,9 +1,9 @@
-# Sobre mim
-
+# Sobre mim <br>
 Psicólogo com ritmo Tech! Experiência extensa em People Analytics e atualmente inserido em uma equipe de Dados.
 
-# Experiências
-Clique no logo <a href="https://www.linkedin.com/in/gtex/">[Meu Linkedin!](https://github.com/Gabrielteixeira2004/Gabriel-Portfolio/blob/f9417802d99a8b899411a9be6278f56355541244/images/linkedin_icon.svg)</a> para conferir minhas experiências.
+# Experiências<br>
+Clique no logo <a href="https://www.linkedin.com/in/gtex/"><img src="https://github.com/Gabrielteixeira2004/Gabriel-Portfolio/blob/f9417802d99a8b899411a9be6278f56355541244/images/linkedin_icon.svg" alt="drawing" width="2%"/></a> para conferir minhas experiências de maneira detalhada.
+<br><br>
 You can use the [editor on GitHub](https://github.com/Gabrielteixeira2004/Gabriel-Portifolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
