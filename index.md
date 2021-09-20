@@ -8,4 +8,4 @@ Clique na logo  <a href="https://www.linkedin.com/in/gtex/"><img src="images/lin
 # Skills <br>
 
 # Portfolio <br>
-Chegamos na melhor parte, <a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/">clique aqui</a> para acessá-la!
+Chegamos na melhor parte, <a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/portfolio">clique aqui</a> para acessá-la!
