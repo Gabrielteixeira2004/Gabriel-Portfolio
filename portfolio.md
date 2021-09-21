@@ -1,8 +1,3 @@
----
-title: PAGE TITLE HERE
-layout: template
-filename: portfolio.md
---- 
 
 # Bem vindo ao meu Portfolio!
 <br>
