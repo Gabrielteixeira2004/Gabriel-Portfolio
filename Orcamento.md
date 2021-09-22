@@ -15,7 +15,7 @@
 <img src="images/Orçamento 3.PNG" width="100%" alt="Tabela personalizada">
 <br><br><br>
 
-<p align="center">  </p>
-  <a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/portfolio"><img src="images/Voltar.png" width="20%" alt="Voltar" style="margin:5px"></a><a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/"><img src="images/Página Inicial.png" width="30%" alt="Voltar" style="margin:5px"></a> 
-
+<p align="center">  
+  <a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/portfolio"><img src="images/Voltar.png" width="20%" alt="Voltar"></a> &nsbp;&nsbp;&nsbp;&nsbp;&nsbp;&nsbp;&nsbp;&nsbp;&nsbp;&nsbp;&nsbp;&nsbp;&nsbp;&nsbp;&nsbp;&nsbp;&nsbp;&nsbp;&nsbp;&nsbp;&nsbp;&nsbp; <a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/"><img src="images/Página Inicial.png" width="30%" alt="Voltar"></a> 
+</p>
 
