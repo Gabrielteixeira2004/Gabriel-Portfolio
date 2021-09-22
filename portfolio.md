@@ -15,4 +15,4 @@ Abaixo você irá encontrar alguns dos projetos já realizados com dados fictíc
 <br><br>
 
 
-# Voltar <a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/portfolio">Clique aqui!</a>                        
+# Voltar <a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/">Clique aqui!</a>                        
