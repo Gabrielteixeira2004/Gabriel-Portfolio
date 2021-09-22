@@ -11,7 +11,8 @@ Abaixo você irá encontrar alguns dos projetos já realizados com dados fictíc
 <br><br>
 
 
-## Orçamento <a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/portfolio/Orcamento">Clique aqui!</a>
+## Orçamento <a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/Orcamento">Clique aqui!</a>
 <br><br>
 
-<a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/">Voltar</a>
+
+# Voltar <a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/portfolio">Clique aqui!</a>                        
