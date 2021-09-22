@@ -16,6 +16,6 @@
 <br><br><br>
 
 <p align="center">
-  <a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/portfolio"><img src="images/Voltar.png" width="20%" alt="Voltar" style="display:block" style="margin:5px"></a><a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/"><img src="images/Página Inicial.png" width="30%" alt="Voltar" style="display:block" style="margin:5px"></a> 
+  <a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/portfolio"><img src="images/Voltar.png" width="20%" alt="Voltar" style="display:block" style="margin:5px"></a>&nsbp;<a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/"><img src="images/Página Inicial.png" width="30%" alt="Voltar" style="display:block" style="margin:5px"></a> 
   </p>
 
