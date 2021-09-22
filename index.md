@@ -4,10 +4,7 @@ Psicólogo com ritmo Tech! Experiência <b>extensa</b> em People Analytics e atu
 <br><br>
 # Experiências
 <br>
-Clique na logo para conferir minhas experiências de maneira detalhada.
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="gtex" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/gtex?trk=profile-badge">Gabriel Teixeira</a></div>
-              
+Clique na logo <a href="https://www.linkedin.com/in/gtex/"><img src="images/linkedin_icon.png" width="3%" alt="Meu Linkedin!"></a> para conferir minhas experiências de maneira detalhada.            
 <br><br>
 # Skills 
 ![](images/Skills_GitHub.png)
