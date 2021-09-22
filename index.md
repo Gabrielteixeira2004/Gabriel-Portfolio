@@ -12,5 +12,3 @@ Clique na logo  <a href="https://www.linkedin.com/in/gtex/"><img src="images/lin
 # Portfolio
 <br>
 O melhor sempre fica para o final, <a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/portfolio">clique aqui</a> para acessar.
-
-# Página Inicial
