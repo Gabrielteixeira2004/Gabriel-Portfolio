@@ -30,9 +30,9 @@
 <img src="images/RS5.PNG" width="100%" alt="Indicações">
 <br><br><br>
 
-# Voltar <a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/portfolio">Clique aqui!</a>                        
-<br><br>
-# Página Principal <a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/">Clique aqui!</a>
+<p align="center">  
+  <a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/portfolio"><img src="images/Voltar.png" width="20%" alt="Voltar"></a>   <br><br><br><br>                                 <a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/"><img src="images/Página Inicial.png" width="30%" alt="Voltar"></a> 
+</p>
 
 
 
