@@ -15,4 +15,6 @@ Abaixo você irá encontrar alguns dos projetos já realizados com os dados pres
 <br><br>
 
 
-# Voltar <a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/">Clique aqui!</a>                        
+<p align="center">  
+  <a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/portfolio"><img src="images/Voltar.png" width="20%" alt="Voltar"></a>   
+</p>                      
