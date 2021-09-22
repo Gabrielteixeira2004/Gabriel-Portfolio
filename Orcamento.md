@@ -7,7 +7,7 @@
 
 ## Filtro retrátil
 <br>
-<img src="images/Orçamento 2.PNG" width="100%" alt="Orçamento de Headcount">
+<img src="images/Orçamento 2.png" width="100%" alt="Orçamento de Headcount">
 <br><br><br>
 
 ## Tabela Personalizada indo ao nível granular (até o nome do colaborador)
