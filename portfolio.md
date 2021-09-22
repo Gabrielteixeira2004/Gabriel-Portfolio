@@ -1,7 +1,7 @@
 
 # Bem vindo ao meu Portfolio!
-<br>
-Abaixo você irá encontrar alguns dos projetos já realizados com dados fictícios.
+<br><br>
+Abaixo você irá encontrar alguns dos projetos já realizados com os dados preservados, devido à sua sensibilidade.
 <br><br><br>
 ## Recrutamento e Seleção <a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/RS">Clique aqui!</a>
 <br><br>
