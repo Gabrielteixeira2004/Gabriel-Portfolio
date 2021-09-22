@@ -7,12 +7,12 @@
 
 ## Filtro retrátil
 <br>
-<img src="images/Orçamento 2.png" width="100%" alt="Orçamento de Headcount">
+<img src="images/Orçamento 2.png" width="100%" alt="Filtro Retrátil">
 <br><br><br>
 
 ## Tabela Personalizada indo ao nível granular (até o nome do colaborador)
 <br>
-<img src="images/Orçamento 3.PNG" width="100%" alt="Orçamento de Headcount">
+<img src="images/Orçamento 3.PNG" width="100%" alt="Tabela personalizada">
 <br><br><br>
 
 # Voltar <a href="https://gabrielteixeira2004.github.io/Gabriel-Portfolio/portfolio">Clique aqui!</a>                        
