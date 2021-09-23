@@ -13,8 +13,8 @@
 
 # Sobre mim 
 <br>
-<b>Não</b> sou seu BI developer mediano, analista de indicadores <b>normal</b> ou o psicólogo <b>longe</b> dos números. <br>
-Bem-vindo sou a sinergia do <b>Psicólogo</b> com ritmo <b>Tech</b>, com experiência <b>extensa</b> em <b>People Analytics</b> e atualmente inserido em uma <b>equipe de Dados</b>.
+<b>Não</b> sou seu BI developer mediano, analista de indicadores <b>normal</b> ou o psicólogo <b>longe</b> dos números. <br><br>
+Bem-vindo sou a sinergia do <b>Psicólogo</b> com ritmo <b>Tech</b>, experiência <b>extensa</b> em <b>People Analytics</b> e atualmente inserido em uma <b>equipe de Dados</b>.
 <br><br>
 # Experiências
 <br>
