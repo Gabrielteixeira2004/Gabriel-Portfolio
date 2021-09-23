@@ -1,3 +1,15 @@
+<HEAD>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TY3HE8276D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TY3HE8276D');
+</script>
+</HEAD>
+
 # Sobre mim 
 <br>
 Psicólogo com ritmo Tech! Experiência <b>extensa</b> em People Analytics e atualmente inserido em uma <b>equipe de Dados</b>.
